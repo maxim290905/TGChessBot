@@ -1,0 +1,7 @@
+aiogram
+flet
+sqlalchemy
+bcrypt
+fastapi
+uvicorn
+requests
